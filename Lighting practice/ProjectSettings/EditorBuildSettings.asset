@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Game/Scenes/MainScene.unity
+    guid: 767d186c974d63748bc7c54d51fb3b26
+  - enabled: 1
+    path: Assets/_Game/Scenes/Hanger Realtime.unity
+    guid: f472a5e279058a74491175030ae0ecea
+  - enabled: 1
+    path: Assets/_Game/Scenes/Hanger Mixed.unity
+    guid: d2ac17f49b8956046a7fc982b86464ec
+  - enabled: 1
+    path: Assets/_Game/Scenes/Hanger BNEw.unity
+    guid: 9009656d76e4db643a85cea9f90a55f4
+  - enabled: 1
+    path: Assets/_Game/Scenes/Hanger MixedLightProbes.unity
+    guid: 1819ad049e0165646b80b937ab99b239
   m_configObjects: {}

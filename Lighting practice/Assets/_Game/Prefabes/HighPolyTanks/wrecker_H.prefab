@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 5527756607203436009}
   - component: {fileID: 8965230685157603993}
   - component: {fileID: 2868403488718680406}
-  - component: {fileID: 1010923044121501296}
   - component: {fileID: 5616990232757734930}
   m_Layer: 9
   m_Name: wrecker_H
@@ -95,19 +94,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 7.5305967, y: 7.531752, z: 13.947474}
   m_Center: {x: -0.07517278, y: 3.781315, z: 0.35040092}
---- !u!114 &1010923044121501296
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6645532878381531972}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87ca0a538f6a1df47a20f0498f6b317a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  meshrenderers: []
 --- !u!54 &5616990232757734930
 Rigidbody:
   m_ObjectHideFlags: 0

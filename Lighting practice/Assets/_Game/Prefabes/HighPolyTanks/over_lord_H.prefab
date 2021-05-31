@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 4744376740369167544}
   - component: {fileID: 6526319328826571558}
   - component: {fileID: 7475664274822117092}
-  - component: {fileID: 5457010629833442116}
   - component: {fileID: 6417183301222213535}
   m_Layer: 9
   m_Name: over_lord_H
@@ -95,19 +94,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 10.325306, y: 6.864181, z: 20.518772}
   m_Center: {x: -0.0026590824, y: 3.432, z: 1.6885152}
---- !u!114 &5457010629833442116
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2256556194378014069}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87ca0a538f6a1df47a20f0498f6b317a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  meshrenderers: []
 --- !u!54 &6417183301222213535
 Rigidbody:
   m_ObjectHideFlags: 0

@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 3453285358136275804}
   - component: {fileID: 3731391420238729433}
   - component: {fileID: 2418875536291602944}
-  - component: {fileID: 7032897461397191659}
   - component: {fileID: 3343414069186486462}
   m_Layer: 9
   m_Name: cyclops_H
@@ -95,19 +94,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 8.950588, y: 7.5429506, z: 18.26612}
   m_Center: {x: -0.00020623207, y: 3.7763982, z: 1.0215402}
---- !u!114 &7032897461397191659
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8323824263267950482}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87ca0a538f6a1df47a20f0498f6b317a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  meshrenderers: []
 --- !u!54 &3343414069186486462
 Rigidbody:
   m_ObjectHideFlags: 0
