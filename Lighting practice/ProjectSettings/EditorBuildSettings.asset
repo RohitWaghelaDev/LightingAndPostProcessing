@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/fps printer.unity
+    guid: 0e602ceffc187480fa0f3e323d2d0e66
+  - enabled: 1
     path: Assets/_Game/Scenes/MainScene.unity
     guid: 767d186c974d63748bc7c54d51fb3b26
   - enabled: 1
@@ -20,4 +23,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Game/Scenes/Hanger MixedLightProbes.unity
     guid: 1819ad049e0165646b80b937ab99b239
+  - enabled: 1
+    path: Assets/A.unity
+    guid: 0d5de6749ec2f49d38517e994f7e037a
+  - enabled: 1
+    path: Assets/Bscene.unity
+    guid: 831963be5e3c6430db148750c3965c74
   m_configObjects: {}

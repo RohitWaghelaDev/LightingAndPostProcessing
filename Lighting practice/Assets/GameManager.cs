@@ -22,7 +22,7 @@ public class GameManager : MonoBehaviour
 
     public void LoadScene(int index) 
     {
-        Debug.Log("clicked post loadScene");
+        Debug.Log(" loadScene " + index.ToString()); ;
         SceneManager.LoadScene(index);
     }
 

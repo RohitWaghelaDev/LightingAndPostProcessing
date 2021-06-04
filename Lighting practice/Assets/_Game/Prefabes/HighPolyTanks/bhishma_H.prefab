@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 3318095547210823396}
   - component: {fileID: 3406754722251351256}
   - component: {fileID: 2740437575288012688}
-  - component: {fileID: 7488400728513693595}
   - component: {fileID: 6042664164641877946}
+  - component: {fileID: 1309147902756260094}
   m_Layer: 9
   m_Name: bhishma_H
   m_TagString: Untagged
@@ -95,19 +95,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 10.56364, y: 6.722107, z: 25.691792}
   m_Center: {x: 0.00004863739, y: 3.3609629, z: 3.5341492}
---- !u!114 &7488400728513693595
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5939402903329951651}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87ca0a538f6a1df47a20f0498f6b317a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  meshrenderers: []
 --- !u!54 &6042664164641877946
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -124,3 +111,17 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &1309147902756260094
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5939402903329951651}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d34102372acca4ebb9a2ed91bb86d048, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 10
+  rotationSpeed: 100

@@ -221,7 +221,7 @@ Light:
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 1
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -714,6 +714,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4705634055016772, guid: 8c95c78c97fdfa040b531171692441e4, type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 718018460074749843, guid: 8c95c78c97fdfa040b531171692441e4,
+        type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 750595976221143850, guid: 8c95c78c97fdfa040b531171692441e4,
         type: 3}
       propertyPath: m_UseGravity
@@ -723,6 +732,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_UseGravity
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216257773086456631, guid: 8c95c78c97fdfa040b531171692441e4,
+        type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3390692550549689416, guid: 8c95c78c97fdfa040b531171692441e4,
+        type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4409705091703942498, guid: 8c95c78c97fdfa040b531171692441e4,
         type: 3}
@@ -793,6 +812,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Tanks
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966045649333904807, guid: 8c95c78c97fdfa040b531171692441e4,
+        type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9008039590360094144, guid: 8c95c78c97fdfa040b531171692441e4,
         type: 3}
